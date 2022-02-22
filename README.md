@@ -1,2 +1,2 @@
 # tisza
-Tisza Magyarország egyik legnagyobb folyója
+Minden időben Tisza cipőben
