@@ -1,0 +1,5 @@
+ASTORIA 1075 Budapest, Károly körút 1.
+WESTEND 1062 Budapest, Váci út 1-3.
+GYŐR ÁRKÁD 9027 Győr, Budai út 1.
+SIÓFOK 8600 Siófok, Fő u. 174-176.
+            
